@@ -190,9 +190,11 @@ Enter the choice(Up - U)(Down - D)(Right - R)(Left - L)(Submit - S)(Exit - E)(Wr
 
 ---
 
-## 👥 Authors
+## 👨‍💻 Author
 
-- **Mahi Panchal**
+**Mahi Panchal**
+- GitHub: https://github.com/Mahi-Panchal
+- LinkedIn: www.linkedin.com/in/mahi-panchal-26344931a
   
 ---
 
